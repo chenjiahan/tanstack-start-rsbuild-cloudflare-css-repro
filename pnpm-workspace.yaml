@@ -1,0 +1,5 @@
+allowBuilds:
+  esbuild: true
+  workerd: true
+minimumReleaseAgeExclude:
+  - rsbuild-plugin-cloudflare@0.0.4
